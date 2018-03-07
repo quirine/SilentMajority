@@ -3,7 +3,7 @@ SilentMajority_2018
 
 This repository contains code used in the following paper.
 
-Quirine A. ten Bosch, Hannah E. Clapham, Louis Lambrechts, Veasna Duong, Philippe Buchy, Benjamin M. Althouse, Alun L. Lloyd, Lance A. Waller,Amy C. Morrison, Uriel Kitron, Gonzalo M. Vazquez-Prokopec, Thomas W. Scott,T. Alex Perkins1 (2018)
+Quirine A. ten Bosch, Hannah E. Clapham, Louis Lambrechts, Veasna Duong, Philippe Buchy, Benjamin M. Althouse, Alun L. Lloyd, Lance A. Waller,Amy C. Morrison, Uriel Kitron, Gonzalo M. Vazquez-Prokopec, Thomas W. Scott,T. Alex Perkins (2018)
 **Contributions from the silent majority dominate dengue virus transmission**. *PLOS Pathogens* 
 
 All code contained within this repository is released under the [CRAPL v0.1 License](http://matt.might.net/articles/crapl/). Data provided in this repository are sufficient to rerun all analyses. Because of the large sizes of the output files, we have deposited those on Open Science Framework [https://osf.io/pjbhz/](https://osf.io/pjbhz/).
